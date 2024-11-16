@@ -1,4 +1,7 @@
 <!-- Profile Banner -->
+<p align="center">
+  <img src="https://github.com/Vatsal-D07/Vatsal-D07/blob/main/Vatsal%20Yadav.png" alt="Profile Banner">
+</p>
 
 
 <!-- Introduction -->
