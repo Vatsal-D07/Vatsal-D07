@@ -1,7 +1,5 @@
 <!-- Profile Banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/800x200?text=Welcome+to+My+GitHub+Profile!" alt="Profile Banner">
-</p>
+
 
 <!-- Introduction -->
 <h1 align="center">Hi there, I'm <a href="https://yourportfolio.com" target="_blank">Vatsal Yadav</a> 👋</h1>
